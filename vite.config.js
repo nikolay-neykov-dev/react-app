@@ -6,6 +6,6 @@ export default defineConfig({
   root: "src",
   server: {
     open: true,
-    port: 1234,
-  },
+    port: 5000
+  }
 });
